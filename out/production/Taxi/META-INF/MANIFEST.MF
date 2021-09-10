@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_265 (Amazon.com Inc.)
+Main-Class: HomePage
+Class-Path: ojdbc6_g.jar java-mail-1.4.4.jar
+
